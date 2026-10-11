@@ -202,4 +202,4 @@ ratDVD is available as a complete free version, with all features and updates in
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-11 08:32:55 UTC
+**Last updated:** 2026-10-11 15:28:57 UTC
